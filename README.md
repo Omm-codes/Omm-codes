@@ -1,46 +1,63 @@
-👋 Hey, I’m Om Chavan  
-
-I'm building **NextWatch**, a React-based movie discovery app that helps users explore, search, and track films using public APIs. I’m planning to expand it into a cross-platform app with Capacitor soon.
-
-### 🔧 What I'm working on
-- Building full-stack projects with React, Node, and APIs  
-- Experimenting with AI-driven automation and negotiation systems  
-- Improving backend performance and scalability (APIs, DB optimization)
-
-### 💡 Looking to collaborate on
-Projects in web dev, AI, or anything that solves real-world problems.
-
-### 🌱 Learning right now
-- Advanced React patterns  
-- Django/Flask backend workflows  
-- AI + automation systems
-
-### 💬 Ask me about
-API design, full-stack workflows, and structuring scalable projects.
-
-### ⚡ Fun fact
-I love building projects around problems I personally face—it keeps things practical and fun.
+<h2 align="center">👋 Hey, I'm Om Chavan</h2>
+<p align="center">Full-stack developer focused on building scalable web apps, clean UI, and AI-powered systems.</p>
 
 ---
 
-## 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om-chavan-003)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-chavan003)  
-[![Pinned](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Om_mmi)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omsanjay975@gmail.com)
+### 🚀 What I had Worked On
+**NextWatch** — A movie discovery app built with React + public APIs.  
+Now expanding into a **cross-platform mobile app** using Capacitor.
+
+**FeastFlow (Team Project)** — Digital canteen PWA (React, Node.js, MySQL) with real-time ordering and live menu updates.
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### 🧠 Interests & Learning
+- Advanced React patterns & performance
+- Scalable backend architecture (APIs, DB structure)
+- AI automation & real world system design
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+| Project | Description | Tech | Links |
+|---------|------------|------|-------|
+| **NextWatch** | Movie discovery using APIs, search & tracking | React, APIs | *(Add link)* |
+| **FeastFlow** | Digital canteen PWA with live order flow | React, Node, MySQL | *(Add link)* |
+| **Mealo** | Recipe search app using multiple APIs | React, APIs | *(Add link)* |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omm-codes&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-codes&theme=radical" height="160" />
+</p>
+
+---
+
+### 🌐 Connect
+<p>
+  <a href="https://instagram.com/om-chavan-003"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/om-chavan003"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:omsanjay975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+I love building projects based on problems I face in real life—makes learning more meaningful.
+
