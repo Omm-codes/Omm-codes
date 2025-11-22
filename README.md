@@ -35,9 +35,9 @@ Now expanding into a **cross-platform mobile app** using Capacitor.
 ### 📌 Featured Projects
 | Project | Description | Tech | Links |
 |---------|------------|------|-------|
-| **NextWatch** | Movie discovery using APIs, search & tracking | React, APIs | *(Add link)* |
-| **FeastFlow** | Digital canteen PWA with live order flow | React, Node, MySQL | *(Add link)* |
-| **Mealo** | Recipe search app using multiple APIs | React, APIs | *(Add link)* |
+| **NextWatch** | Movie discovery using APIs, search & tracking | React, APIs | https://nextwatch-tan.vercel.app/ |
+| **FeastFlow** | Digital canteen PWA with live order flow | React, Node, MySQL | https://omm-codes.github.io/Quickbites/ |
+| **Mealo** | Recipe search app using multiple APIs | React, APIs | https://omproject-mealo.vercel.app/ |
 
 ---
 
