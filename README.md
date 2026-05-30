@@ -51,22 +51,6 @@ Now expanding into a cross-platform mobile app using Capacitor.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omm-codes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omm-codes&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omm-codes&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌐 Connect
 
 <p>
