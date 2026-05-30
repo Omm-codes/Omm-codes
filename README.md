@@ -1,24 +1,32 @@
 <h2 align="center">👋 Hey, I'm Om Chavan</h2>
-<p align="center">Full-stack developer focused on building scalable web apps, clean UI, and AI-powered systems.</p>
+<p align="center">
+  Full-stack developer passionate about building scalable web applications, intuitive user experiences, and AI-powered solutions.
+</p>
 
 ---
 
-### 🚀 What I had Worked On
-**NextWatch** — A movie discovery app built with React + public APIs.  
-Now expanding into a **cross-platform mobile app** using Capacitor.
+### 🚀 Projects I've Built
 
-**FeastFlow (Team Project)** — Digital canteen PWA (React, Node.js, MySQL) with real-time ordering and live menu updates.
+**NextWatch** — A movie discovery app built with React and public APIs.
+Now expanding into a cross-platform mobile app using Capacitor.
+
+**FeastFlow (Team Project)** — Digital canteen PWA built with React, Node.js, and MySQL featuring real-time ordering and live menu updates.
+
+**AcadSync** — Academic collaboration platform that helps students share resources, organize study materials, and streamline learning workflows.
 
 ---
 
 ### 🧠 Interests & Learning
-- Advanced React patterns & performance
-- Scalable backend architecture (APIs, DB structure)
-- AI automation & real world system design
+
+* Advanced React patterns and performance optimization
+* Scalable backend architecture and API design
+* Database modeling and system design
+* AI automation and real-world problem solving
 
 ---
 
 ### 🛠 Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -33,27 +41,51 @@ Now expanding into a **cross-platform mobile app** using Capacitor.
 ---
 
 ### 📌 Featured Projects
-| Project | Description | Tech | Links |
-|---------|------------|------|-------|
-| **NextWatch** | Movie discovery using APIs, search & tracking | React, APIs | https://nextwatch-tan.vercel.app/ |
-| **FeastFlow** | Digital canteen PWA with live order flow | React, Node, MySQL | https://omm-codes.github.io/Quickbites/ |
-| **Mealo** | Recipe search app using multiple APIs | React, APIs | https://omproject-mealo.vercel.app/ |
+
+| Project       | Description                                                                        | Tech                              | Live Demo                               |
+| ------------- | ---------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------- |
+| **NextWatch** | Movie discovery platform with search, trending content, and watch tracking         | React, APIs                       | https://nextwatch-tan.vercel.app/       |
+| **FeastFlow** | Digital canteen PWA with real-time ordering and menu management                    | React, Node.js, MySQL             | https://omm-codes.github.io/Quickbites/ |
+| **Mealo**     | Recipe discovery platform powered by multiple food APIs                            | React, APIs                       | https://omproject-mealo.vercel.app/     |
+| **AcadSync**  | Academic collaboration platform for sharing resources and managing study materials | React, Node.js, Express.js, MySQL | https://acadsync-theta.vercel.app/      |
 
 ---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omm-codes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omm-codes&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omm-codes&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
 ### 🌐 Connect
+
 <p>
-  <a href="https://instagram.com/om-chavan-003"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/om-chavan003"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:omsanjay975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/om_chavan_003">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/om-chavan003">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:omsanjay975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-I love building projects based on problems I face in real life—makes learning more meaningful.
 
+I enjoy building projects inspired by real-life problems because solving practical challenges makes learning more meaningful and rewarding.
+mmmmm
